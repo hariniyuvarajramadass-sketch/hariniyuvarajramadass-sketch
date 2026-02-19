@@ -1,4 +1,6 @@
-## Hi there 👋
+Harini U | CSE Undergraduate 
+Passionate about software development and problem-solving.
+Building skills, one project at a time
 
 <!--
 **hariniyuvarajramadass-sketch/hariniyuvarajramadass-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
